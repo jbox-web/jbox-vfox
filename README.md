@@ -22,6 +22,7 @@
 | [vfox-prometheus](https://github.com/jbox-web/vfox-prometheus)                 | [![CI](https://github.com/jbox-web/vfox-prometheus/workflows/CI/badge.svg)](https://github.com/jbox-web/vfox-prometheus/actions)
 | [vfox-promtail](https://github.com/jbox-web/vfox-promtail)                     | [![CI](https://github.com/jbox-web/vfox-promtail/workflows/CI/badge.svg)](https://github.com/jbox-web/vfox-promtail/actions)
 | [vfox-redis-exporter](https://github.com/jbox-web/vfox-redis-exporter)         | [![CI](https://github.com/jbox-web/vfox-redis-exporter/workflows/CI/badge.svg)](https://github.com/jbox-web/vfox-redis-exporter/actions)
+| [vfox-seaweedfs](https://github.com/jbox-web/vfox-seaweedfs)                   | [![CI](https://github.com/jbox-web/vfox-seaweedfs/workflows/CI/badge.svg)](https://github.com/jbox-web/vfox-seaweedfs/actions)
 | [vfox-sentry-cli](https://github.com/jbox-web/vfox-sentry-cli)                 | [![CI](https://github.com/jbox-web/vfox-sentry-cli/workflows/CI/badge.svg)](https://github.com/jbox-web/vfox-sentry-cli/actions)
 | [vfox-squarectl](https://github.com/jbox-web/vfox-squarectl)                   | [![CI](https://github.com/jbox-web/vfox-squarectl/workflows/CI/badge.svg)](https://github.com/jbox-web/vfox-squarectl/actions)
 | [vfox-stacker](https://github.com/jbox-web/vfox-stacker)                       | [![CI](https://github.com/jbox-web/vfox-stacker/workflows/CI/badge.svg)](https://github.com/jbox-web/vfox-stacker/actions)
