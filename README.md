@@ -26,4 +26,5 @@
 | [vfox-sentry-cli](https://github.com/jbox-web/vfox-sentry-cli)                 | [![CI](https://github.com/jbox-web/vfox-sentry-cli/workflows/CI/badge.svg)](https://github.com/jbox-web/vfox-sentry-cli/actions)
 | [vfox-squarectl](https://github.com/jbox-web/vfox-squarectl)                   | [![CI](https://github.com/jbox-web/vfox-squarectl/workflows/CI/badge.svg)](https://github.com/jbox-web/vfox-squarectl/actions)
 | [vfox-stacker](https://github.com/jbox-web/vfox-stacker)                       | [![CI](https://github.com/jbox-web/vfox-stacker/workflows/CI/badge.svg)](https://github.com/jbox-web/vfox-stacker/actions)
+| [vfox-step-ca](https://github.com/jbox-web/vfox-step-ca)                       | [![CI](https://github.com/jbox-web/vfox-step-ca/workflows/CI/badge.svg)](https://github.com/jbox-web/vfox-step-ca/actions)
 | [vfox-yq](https://github.com/jbox-web/vfox-yq)                                 | [![CI](https://github.com/jbox-web/vfox-yq/workflows/CI/badge.svg)](https://github.com/jbox-web/vfox-yq/actions)
