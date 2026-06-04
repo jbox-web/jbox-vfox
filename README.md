@@ -1,6 +1,7 @@
 | Plugin                                                                         | CI
 |--------------------------------------------------------------------------------|------------------------------------------------------------------
 | [vfox-alertmanager](https://github.com/jbox-web/vfox-alertmanager)             | [![CI](https://github.com/jbox-web/vfox-alertmanager/workflows/CI/badge.svg)](https://github.com/jbox-web/vfox-alertmanager/actions)
+| [vfox-apt-larder](https://github.com/jbox-web/vfox-apt-larder)                 | [![CI](https://github.com/jbox-web/vfox-apt-larder/workflows/CI/badge.svg)](https://github.com/jbox-web/vfox-apt-larder/actions)
 | [vfox-composer](https://github.com/jbox-web/vfox-composer)                     | [![CI](https://github.com/jbox-web/vfox-composer/workflows/CI/badge.svg)](https://github.com/jbox-web/vfox-composer/actions)
 | [vfox-crystalline](https://github.com/jbox-web/vfox-crystalline)               | [![CI](https://github.com/jbox-web/vfox-crystalline/workflows/CI/badge.svg)](https://github.com/jbox-web/vfox-crystalline/actions)
 | [vfox-dnscontrol](https://github.com/jbox-web/vfox-dnscontrol)                 | [![CI](https://github.com/jbox-web/vfox-dnscontrol/workflows/CI/badge.svg)](https://github.com/jbox-web/vfox-dnscontrol/actions)
