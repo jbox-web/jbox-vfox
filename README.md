@@ -1,3 +1,5 @@
+> **Deprecated** — this plugin is replaced by [jbox-web/aqua-registry](https://github.com/jbox-web/aqua-registry).
+
 | Plugin                                                                         | CI
 |--------------------------------------------------------------------------------|------------------------------------------------------------------
 | [vfox-alertmanager](https://github.com/jbox-web/vfox-alertmanager)             | [![CI](https://github.com/jbox-web/vfox-alertmanager/workflows/CI/badge.svg)](https://github.com/jbox-web/vfox-alertmanager/actions)
